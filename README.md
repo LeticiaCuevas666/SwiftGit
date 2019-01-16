@@ -21,6 +21,25 @@ SwiftGit will help you achieve INBOX ZERO with your GitHub notifications. Commen
 
 </table>
 
+### iPad
+
+<table align="center" border="0">
+
+<tr>
+<td> <img src="https://raw.githubusercontent.com/LeticiaCuevas666/SwiftGit/master/p5.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeticiaCuevas666/SwiftGit/master/p6.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeticiaCuevas666/SwiftGit/master/p7.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeticiaCuevas666/SwiftGit/master/p8.png"> </td>
+</tr>
+
+<tr>
+
+</tr>
+
+
+</table>
+
+
 ### Description
 <br>
 SwiftGit will help you achieve INBOX ZERO with your GitHub notifications.
