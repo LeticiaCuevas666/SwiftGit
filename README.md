@@ -8,10 +8,10 @@ SwiftGit will help you achieve INBOX ZERO with your GitHub notifications. Commen
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/ThompsonRita222/RecordLifeBill/master/img/2.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/ThompsonRita222/RecordLifeBill/master/img/3.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/ThompsonRita222/RecordLifeBill/master/img/4.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/ThompsonRita222/RecordLifeBill/master/img/5.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeticiaCuevas666/SwiftGit/master/p1.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeticiaCuevas666/SwiftGit/master/p2.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeticiaCuevas666/SwiftGit/master/p3.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/LeticiaCuevas666/SwiftGit/master/p4.png"> </td>
 </tr>
 
 <tr>
